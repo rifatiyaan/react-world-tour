@@ -1,0 +1,10 @@
+.box{
+    border: 2px solid cyan;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.visited{
+    background-color: rgb(253, 181, 217);
+    color: black;
+}
